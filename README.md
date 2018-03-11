@@ -1,14 +1,17 @@
-# fanduct_v3
+#toolson's fandcut v3
 
-toolson's fandcut v3
-
-released under CC BY-NC-SA 4.0
+##released under CC BY-NC-SA 4.0
 
 Please commit/share any changes only here.
 I don't allow any upload on thingiverse and youmagine!!!
 
+fan = 25x25x10 mm
 
-fanduct_v3_x_**n** = M3 DIN 934 nutes
+blower = 35x35x10mm
+
+
+fanduct_v3_x_**n** = M3 DIN 934 nuts
+
 fanduct_v3_x_**p** = M3 knurled insert nuts
 
 
