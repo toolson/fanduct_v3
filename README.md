@@ -12,6 +12,6 @@ fanduct_v3_x_**n** = M3 DIN 934 nutes
 fanduct_v3_x_**p** = M3 knurled insert nuts
 
 
-![picture](/fanduct_v3_6/fanduct_v3_6_001.JPG)
+![picture](/fanduct_v3_6/fanduct_v3_6_p_001.JPG)
 
-![picture](/fanduct_v3_6/fanduct_v3_6_002.JPG)
+![picture](/fanduct_v3_6/fanduct_v3_6_p_002.JPG)
